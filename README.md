@@ -6,7 +6,7 @@ too many for my brain to handle, and too little time
   * effective altruism
   * social advocacy
   * volunteering
-* Different social influence potentials with different careers
+* How different careers can create social change in their own ways
   * list of admirable projects/people
   * queer identities, immigration, voting systems, animal rights advocacy
 * Extremists vs. Flexiblists
@@ -17,3 +17,7 @@ too many for my brain to handle, and too little time
   
 ## Comic Panels / Graphics
 * Vegan hierarchy
+
+## Games / Interactive Art
+Learn more about incorporating ideas/morals/education through storytelling and narratives.
+* Simulation of international student visa troubles
