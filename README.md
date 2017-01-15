@@ -20,11 +20,23 @@ too many for my brain to handle, and too little time
 
 ## Games / Interactive Art
 Learn more about incorporating ideas/morals/education through storytelling and narratives.
+* Points to keep in mind
+ * social change through character development
+ * show misconceptions before facts
+ * don't just punish evil, reward goodness
 * Simulation of international student visa troubles
 * Conversation narrative with mansplainer
  * would be pretty fun! and funny
  * keep a record of all mansplained conversations, get friends to share as well
-* Conversation: coming out as a vegan
+* Conversation: convincing someone to be vegan
+ * hahaha
+ * they'll remember what you say
+ * too preachy?
+ * good conversation / bad conversation
+ * punish bad behavior: being preachy, extreme?
+ * reward good behavior: listen to omnivore
+* Conversation: coming out as a vegan / dining out socially as a vegan
+ * show misconceptions before facts
  * Chinese relatives
  * eating dinner
  * protein
