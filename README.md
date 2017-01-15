@@ -31,10 +31,13 @@ Learn more about incorporating ideas/morals/education through storytelling and n
 * Conversation: convincing someone to be vegan
  * hahaha
  * they'll remember what you say
- * too preachy?
+ * too preachy? can be discussion disagreement on vague topic
  * good conversation / bad conversation
  * punish bad behavior: being preachy, extreme?
+  * anger --> defensive mode
  * reward good behavior: listen to omnivore
+  * compassion --> cooperative mode, more open to logical arguments
+ * address misconceptions first, then work step-by-step on better belief systems
 * Conversation: coming out as a vegan / dining out socially as a vegan
  * show misconceptions before facts
  * Chinese relatives
