@@ -15,7 +15,8 @@
   * MFA article
   
 ## Comic Panels / Graphics
-* Vegan hierarchy
+* Vegan hierarchy (funny culture)
+* Ethical killing (vs human)... hash out more
 
 ## Games / Interactive Art
 Learn more about incorporating ideas/morals/education through storytelling and narratives.
