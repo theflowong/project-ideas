@@ -20,15 +20,21 @@
 
 ## Games / Interactive Art
 Learn more about incorporating ideas/morals/education through storytelling and narratives.
-* Points to keep in mind
+
+### To keep in mind...
  * social change through character development
  * show misconceptions before facts
  * don't just punish evil, reward goodness
-* Simulation of international student visa troubles
-* Conversation narrative with mansplainer
+ 
+### International student visa troubles
+ * simulation?
+ * need to grow up faster (decide straight career path)
+ 
+### Educate the Mansplainer
  * would be pretty fun! and funny
  * keep a record of all mansplained conversations, get friends to share as well
-* Conversation: convincing someone to be vegan
+ 
+### How to Convert an Omni (conversation dialogue)
  * hahaha
  * they'll remember what you say
  * too preachy? can be discussion disagreement on vague topic
@@ -38,14 +44,22 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * reward good behavior: listen to omnivore
   * compassion --> cooperative mode, more open to logical arguments
  * address misconceptions first, then work step-by-step on better belief systems
-* Conversation: coming out as a vegan / dining out socially as a vegan
+ 
+### Vegan Experiences/Conversations
  * show misconceptions before facts
  * Chinese relatives
  * eating dinner
+ * situation: dining out socially
  * protein
  * plants have feelings too
  * too many points, this might be a lengthy conversation
-* Interactive visual comparison of vegan / omnivore
+ 
+### Look at the Numbers: Comparison between Vegan and Omnivore
+ * interactive visual comparison of vegan / omnivore impacts
+  * water usage
+  * land, transportation, etc.
+  * gather more stats
  * environmental impact
-* Something about ethics and animal ethics
+ * something about ethics and animal ethics?
+  * "ethical" cow is more environmentally damaging?
  * think more about this
