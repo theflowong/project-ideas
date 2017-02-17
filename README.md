@@ -25,16 +25,20 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * social change through character development
  * show misconceptions before facts
  * don't just punish evil, reward goodness
+
+### Gratitude Project
+ * blog-style; like 40 Days of Dating
+ * purpose: to remind people to be grateful for the little things in life
  
 ### International student visa troubles
  * simulation?
- * need to grow up faster (decide straight career path)
+ * complicates relationships and careers to a whole new level
  
 ### Educate the Mansplainer
  * would be pretty fun! and funny
  * keep a record of all mansplained conversations, get friends to share as well
  
-### How to Convert an Omni (conversation dialogue)
+### Convert an Omni (conversation dialogue)
  * hahaha
  * they'll remember what you say
  * too preachy? can be discussion disagreement on vague topic
