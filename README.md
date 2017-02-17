@@ -58,7 +58,7 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * plants have feelings too
  * too many points, this might be a lengthy conversation
  
-### Look at the Numbers: Comparison between Vegan and Omnivore
+### Vegan/Omnivore Visual Comparison
  * interactive visual comparison of vegan / omnivore impacts
   * water usage
   * land, transportation, etc.
