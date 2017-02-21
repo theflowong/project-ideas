@@ -27,7 +27,7 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * don't just punish evil, reward goodness
 
 ### Gratitude Project
- * blog-style; like 40 Days of Dating
+ * blog-style; like [40 Days of Dating](http://fortydaysofdating.com/)
  * purpose: to remind people to be grateful for the little things in life
  
 ### International student visa troubles
