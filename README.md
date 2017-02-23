@@ -1,5 +1,10 @@
 # project-ideas
 
+## Weird Art
+
+### Pixel Sorting!
+* intriguing; research more about this
+
 ## Writing/Blog Articles
 * Ways to make a difference
   * effective altruism
