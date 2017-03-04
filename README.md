@@ -1,9 +1,14 @@
 # project-ideas
 
-## Weird Art
+## Weird Art / Visualizations
 
 ### Pixel Sorting!
 * intriguing; research more about this
+
+### ThreeJS for Animal Ag Stats?
+* using stats and numbers, what info and message needs to be best conveyed?
+* worldwide comparison?
+* simple: increase in numbers of vegans/vegetarians across the globe over the years
 
 ## Writing/Blog Articles
 * Ways to make a difference
@@ -63,7 +68,7 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * plants have feelings too
  * too many points, this might be a lengthy conversation
  
-### Vegan/Omnivore Visual Comparison
+### Environmental Visual Comparison: Vegan / Omnivore
  * interactive visual comparison of vegan / omnivore impacts
   * water usage
   * land, transportation, etc.
