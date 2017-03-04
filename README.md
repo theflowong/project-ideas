@@ -9,6 +9,9 @@
 * using stats and numbers, what info and message needs to be best conveyed?
 * worldwide comparison?
 * simple: increase in numbers of vegans/vegetarians across the globe over the years
+ * not enough data
+* current real-world stats on rates of change (forests loss due to factory farming, carbon emissions released)
+ * starting time: after clicking into browser
 
 ## Writing/Blog Articles
 * Ways to make a difference
