@@ -12,6 +12,14 @@
  * not enough data
 * current real-world stats on rates of change (forests loss due to factory farming, carbon emissions released)
  * starting time: after clicking into browser
+ * http://www.theworldcounts.com/counters/world_food_consumption_statistics/environmental_effects_of_meat_production
+* Resources used in meat production
+ * water (contributes to global water crisis)
+  * "It requires at least 15,500 liters of water to produce 1 kilo of beef. In total, meat production demands more than 2,000 trillion tons of water every year (that's 63 million liters a second!). In less than 40 hours that’s enough to provide drinking water for everyone on earth for a year."
+ * waste from cattle and livestock animals
+ * greenhouse gas emissions
+  * burps and farts from cattle and other livestock animals account for 18% of global greenhouse gas emissions (more than total emissions from transportation sector)
+  
 
 ## Writing/Blog Articles
 * Ways to make a difference
@@ -71,7 +79,7 @@ Learn more about incorporating ideas/morals/education through storytelling and n
  * plants have feelings too
  * too many points, this might be a lengthy conversation
  
-### Environmental Visual Comparison: Vegan / Omnivore
+### Environmental Visual of Resources Used: Vegan / Omnivore (Comparison?)
  * interactive visual comparison of vegan / omnivore impacts
   * water usage
   * land, transportation, etc.
